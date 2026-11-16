@@ -1,0 +1,210 @@
+{
+  "website_title": "Instrutor Gilson | Instrutor de trânsito credenciado Detran-PE",
+  "source_file": "Instrutor Gilson _ Instrutor de trânsito credenciado Detran-PE.html",
+  "source_size_bytes": 2865929,
+  "language": "pt-BR",
+  "meta": [
+    {
+      "name": "viewport",
+      "property": null,
+      "content": "width=device-width, initial-scale=1, viewport-fit=cover"
+    },
+    {
+      "name": "description",
+      "property": null,
+      "content": "Instrutor de trânsito credenciado no Detran-PE. Aulas teóricas e práticas na Autoescola Do Brasil."
+    }
+  ],
+  "external_stylesheets": [
+    "https://fonts.googleapis.com/css2?family=Barlow:wght@400;600&family=Barlow+Condensed:wght@700;800&display=swap"
+  ],
+  "external_scripts": [],
+  "links": [
+    {
+      "text": "Chamar no WhatsApp",
+      "href": "#"
+    },
+    {
+      "text": "Ver o Instagram",
+      "href": "https://www.instagram.com/gilson.instrutor/"
+    },
+    {
+      "text": "Chamar no WhatsApp",
+      "href": "#"
+    },
+    {
+      "text": "@gilson.instrutor",
+      "href": "https://www.instagram.com/gilson.instrutor/"
+    }
+  ],
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Instrutor Gilson"
+    },
+    {
+      "tag": "h2",
+      "text": "Quem vai te ensinar"
+    },
+    {
+      "tag": "h3",
+      "text": "Credenciado no Detran-PE"
+    },
+    {
+      "tag": "h3",
+      "text": "Condutor socorrista no SAMU"
+    },
+    {
+      "tag": "h3",
+      "text": "Licenciado em Pedagogia"
+    },
+    {
+      "tag": "h2",
+      "text": "O que guia cada aula"
+    },
+    {
+      "tag": "h3",
+      "text": "Segurança"
+    },
+    {
+      "tag": "h3",
+      "text": "Responsabilidade"
+    },
+    {
+      "tag": "h3",
+      "text": "Consciência"
+    },
+    {
+      "tag": "h2",
+      "text": "Alunos aprovados na prova teórica"
+    },
+    {
+      "tag": "h2",
+      "text": "Alunos habilitados"
+    },
+    {
+      "tag": "h2",
+      "text": "Pronto para começar?"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/image_01.jpg",
+      "mime_type": "image/jpeg",
+      "bytes": 251810,
+      "sha256": "3569386bde554e9a4b69ba46d25a87c4ddcbd1072932402310dc69f4ad6f2330",
+      "alt": "Instrutor Gilson, instrutor credenciado, de braços cruzados ao lado de um semáforo. Educar no trânsito é salvar vidas.",
+      "width": "1672",
+      "height": "941"
+    },
+    {
+      "file": "assets/image_02.jpg",
+      "mime_type": "image/jpeg",
+      "bytes": 184686,
+      "sha256": "3cc16166836baf9e4d5d0ca1d1487ee6c7adb5a7a1da09ff2cd3dabe2acadea9",
+      "alt": "Aluna aprovada com 30 pontos na prova teórica do Detran-PE, em frente à sede do Detran",
+      "width": "900",
+      "height": "900"
+    },
+    {
+      "file": "assets/image_03.jpg",
+      "mime_type": "image/jpeg",
+      "bytes": 186647,
+      "sha256": "532f27bd65b54e89def084555c546e5c6f2eab4f8b371f3244f35a16e90fe6ce",
+      "alt": "Aluna aprovada com 29 pontos na prova teórica do Detran, ao lado do carro da autoescola",
+      "width": "900",
+      "height": "900"
+    },
+    {
+      "file": "assets/image_04.jpg",
+      "mime_type": "image/jpeg",
+      "bytes": 182222,
+      "sha256": "fc8ed8f80f0551506f66fc0dd62f5f0924801f90a644887d04cf87346463aa34",
+      "alt": "Aluna aprovada com 28 pontos na prova teórica do Detran, mostrando o certificado",
+      "width": "900",
+      "height": "900"
+    },
+    {
+      "file": "assets/image_05.jpg",
+      "mime_type": "image/jpeg",
+      "bytes": 150771,
+      "sha256": "f161a47c16239e174ef101e27cdfb27701c464348c791c6dbdff7d67d45afd22",
+      "alt": "Aluna aprovada com 27 pontos na prova teórica do Detran, ao lado do carro da autoescola",
+      "width": "900",
+      "height": "900"
+    },
+    {
+      "file": "assets/image_06.jpg",
+      "mime_type": "image/jpeg",
+      "bytes": 167033,
+      "sha256": "496d7cbcbd61657fa0afcfdae8086224e8dfcd237321fbc061f839d4019d5c44",
+      "alt": "Aluna aprovada com 26 pontos na prova teórica do Detran, ao lado do carro da autoescola",
+      "width": "900",
+      "height": "900"
+    },
+    {
+      "file": "assets/image_07.jpg",
+      "mime_type": "image/jpeg",
+      "bytes": 188463,
+      "sha256": "8dfa21034cdabf35deb83d276ff42cdf64b3ea1258715d751861ba321b010fc1",
+      "alt": "Aluno aprovado com 24 pontos na prova teórica do Detran, mostrando o certificado",
+      "width": "900",
+      "height": "900"
+    },
+    {
+      "file": "assets/image_08.jpg",
+      "mime_type": "image/jpeg",
+      "bytes": 192005,
+      "sha256": "7ae061de72fa53c78d7c5efe7d52de41a376f4d89862eab4da2f2a52840d5d66",
+      "alt": "Aluna habilitada na prova prática do Detran, mostrando a CNH de dentro do carro da autoescola",
+      "width": "900",
+      "height": "900"
+    },
+    {
+      "file": "assets/image_09.jpg",
+      "mime_type": "image/jpeg",
+      "bytes": 253822,
+      "sha256": "898a2076e615802f002912a288888e9138312e2bd7beff3e991dc3ecd32da1b6",
+      "alt": "Alunas aprovadas na prova prática do Detran, mostrando suas CNHs em frente ao Detran",
+      "width": "900",
+      "height": "900"
+    },
+    {
+      "file": "assets/image_10.jpg",
+      "mime_type": "image/jpeg",
+      "bytes": 185595,
+      "sha256": "2573976e42a79c18df65ab53726d280e70bf1b951a186613dd03b1c7660b2a34",
+      "alt": "Aluno habilitado na prova prática do Detran, com o polegar para cima e a CNH na mão",
+      "width": "900",
+      "height": "900"
+    },
+    {
+      "file": "assets/image_11.jpg",
+      "mime_type": "image/jpeg",
+      "bytes": 194285,
+      "sha256": "97dcba7aa46597a5a064087533e37ba6dcfc9e7d5b7eeb88053b9e15cc3eed62",
+      "alt": "Aluna habilitada na prova prática do Detran, mostrando a CNH de dentro do carro da autoescola",
+      "width": "900",
+      "height": "900"
+    }
+  ],
+  "counts": {
+    "images": 12,
+    "inline_style_blocks": 1,
+    "inline_scripts": 2,
+    "links": 4,
+    "svg": 0,
+    "iframes": 0,
+    "videos": 0,
+    "audio": 0
+  },
+  "integrations": {
+    "whatsapp_phone_configured_in_javascript": "5581999641256",
+    "whatsapp_message": "Vim pelo seu link do instagram",
+    "instagram_url": "https://www.instagram.com/gilson.instrutor/"
+  },
+  "notes": [
+    "Há 12 elementos img no HTML; 11 possuem imagens reais incorporadas e foram extraídas. O 12º é a imagem vazia usada pelo modal/lightbox.",
+    "Os botões de WhatsApp têm href '#' no HTML, mas o JavaScript define o destino para o número configurado no código."
+  ]
+}
